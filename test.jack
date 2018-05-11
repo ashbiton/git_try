@@ -17,4 +17,12 @@ class Main{
 		}
 		return;
 	}
+	
+	function int getNumber(int number)
+	{
+		if (number == 5)
+			return 50;
+		else 
+			return number;
+	}
 }
