@@ -1,0 +1,20 @@
+class Main{
+	field int if_age;
+	field int b;
+	
+	function int calculate(int c)
+	{
+		if (a>c)
+			return a+c;
+		else
+			return a;
+	}
+	
+	function void func(){
+		var i =1;
+		while( i<8){
+			i = i+1;
+		}
+		return;
+	}
+}
